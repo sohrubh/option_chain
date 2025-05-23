@@ -57,6 +57,6 @@ Hey there! This little Python app whips up a real-time NIFTY option chain right 
 
 ## Project Demo 🎬
 
-
+https://github.com/user-attachments/assets/0e0dd11a-cf83-4b3e-aa84-d3fddbf10c04
 
 ---
